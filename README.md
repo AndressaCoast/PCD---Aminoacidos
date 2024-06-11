@@ -1,62 +1,24 @@
-# Título do projeto
+# PCD - Análise de aminoácidos
 
-Um parágrafo da descrição do projeto vai aqui
+:construction: Projeto em construção :construction:
+
+O projeto foi elaborado visando a efetivação da análise de uma sequência de pares de bases do gene de uma proteína e a sua classificação de acordo com os tipos de aminoácidos que apresenta, além de classificá-los em relação a alguns parâmetros fisico-químicos. Após a designação das informações de acordo com cada parâmetro, serão plotados gráficos para representar a relação entre essas grandezas e a quantidade de aminoácidos analisados.
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
-### 📋 Pré-requisitos
+## 🔨 Features do projeto
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+- [ ] Praticidade de acesso de dados sobre a sequência fornecida.
+- [ ] Representação visual das relações entre aminoácidos e os parâmetros físico-químicos.
+- [ ] Verificação dos fatores de pKi e polaridade.
+- [ ] Transcrição e tradução da sequência fornecida.
+      
+## 📦 Implementação
 
-```
-Dar exemplos
-```
-
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## 📦 Implantação
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Para a implementação desse projeto foi utilizada a interface do Jupyter Notebook para elaborar o código fonte, em conjunto com as bibliotecas pandas e matplotlib para plotar os gráficos expostos. 
 
 ## 🛠️ Construído com
 
@@ -66,34 +28,13 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Maven](https://maven.apache.org/) - Gerente de Dependência
 * [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
 
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Rafael Erdmann Dalacorte</sub>](https://github.com/erdmann-ilum) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Pedro Henrique M. Bramante </sub>](https://github.com/PedroBramante)
+|[<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Guilherme Sobreira</sub>](https://github.com/Guilherme-Sobreira)|
+|[<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Andressa Costa</sub>](https://github.com/AndressaCoast)|
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
 ## 📄 Licença
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
-
-
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
