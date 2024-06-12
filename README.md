@@ -34,7 +34,4 @@ Mencione as ferramentas que você usou para criar seu projeto
 |[<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Guilherme Sobreira</sub>](https://github.com/Guilherme-Sobreira)|
 |[<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Andressa Costa</sub>](https://github.com/AndressaCoast)|
 
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+| :---: | :---: | :---: |
