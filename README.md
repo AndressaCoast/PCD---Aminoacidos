@@ -1,3 +1,5 @@
+
+
 # PCD - Análise de aminoácidos
 
 :construction: Projeto em construção :construction:
@@ -11,9 +13,9 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 ## 🔨 Features do projeto
 
-- [ ] Praticidade de acesso de dados sobre a sequência fornecida.
+- [ ] Praticidade de acesso de dados sobre a sequência de DNA ou RNA fornecida.
 - [ ] Representação visual das relações entre aminoácidos e os parâmetros físico-químicos.
-- [ ] Verificação dos fatores de pKi e polaridade.
+- [ ] Verificação dos fatores de pKa e polaridade.
 - [ ] Transcrição e tradução da sequência fornecida.
       
 ## 📦 Implementação
@@ -24,9 +26,8 @@ Para a implementação desse projeto foi utilizada a interface do Jupyter Notebo
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+* Jupyter Notebook - O framework web usado.
+* Peptides library - Cálculo de ponto isoelétrico.
 
 ## ✒️ Autores
 
