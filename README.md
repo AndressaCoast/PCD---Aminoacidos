@@ -15,7 +15,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 - [ ] Praticidade de acesso de dados sobre a sequência de DNA ou RNA fornecida.
 - [ ] Representação visual das relações entre aminoácidos e os parâmetros físico-químicos.
-- [ ] Verificação dos fatores de pKa e polaridade.
+- [ ] Verificação dos fatores de pKa, polaridade, ponto isoelétrico e massa.
 - [ ] Transcrição e tradução da sequência fornecida.
       
 ## 📦 Implementação
@@ -28,6 +28,14 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 * Jupyter Notebook - O framework web usado.
 * Peptides library - Cálculo de ponto isoelétrico.
+
+## Referências
+
+Tabela referencial para categorização de aminoácidos:
+VANDERBILT UNIVERSITY. Amino Acids. Disponível em: <https://www.vanderbilt.edu/AnS/Chemistry/Rizzo/stuff/AA/AminoAcids.html>.‌
+
+CAMPBELL, N. A. et al. Biology concepts & connections. [s.l.] New York Pearson, 2019.
+
 
 ## ✒️ Autores
 
