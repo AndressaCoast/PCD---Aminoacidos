@@ -14,7 +14,6 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 ## 🔨 Features do projeto
 
 - [ ] Praticidade de acesso de dados sobre a sequência de DNA ou RNA fornecida.
-- [ ] Representação visual das relações entre aminoácidos e os parâmetros físico-químicos.
 - [ ] Verificação dos fatores de pKa, polaridade, ponto isoelétrico e massa.
 - [ ] Transcrição e tradução da sequência fornecida.
       
