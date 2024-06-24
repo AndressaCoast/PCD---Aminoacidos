@@ -2,13 +2,12 @@
 
 # PCD - Análise de aminoácidos
 
-:construction: Projeto em construção :construction:
-
-O projeto foi elaborado visando a efetivação da análise de uma sequência de pares de bases do gene de uma proteína e a sua classificação de acordo com os tipos de aminoácidos que apresenta, além de classificá-los em relação a alguns parâmetros fisico-químicos. Após a designação das informações de acordo com cada parâmetro, serão plotados gráficos para representar a relação entre essas grandezas e a quantidade de aminoácidos analisados.
+O projeto foi elaborado visando a efetivação da análise de uma sequência de pares de bases do gene de uma proteína e a sua classificação de acordo com os tipos de aminoácidos que apresenta, classificá-la em relação a alguns parâmetros fisico-químicos, além de traduzí-la e transcrevê-la.
+Algumas vantagens desse tipo de aplicação são: acessibilidade do código, facilitando análises bioinformáticas tanto para estudantes quanto para professores, praticidade de disposição de informações, de tal forma que o projeto possa ser integrado a outros, de cunho mais complexo, entre outras.
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ## 🔨 Features do projeto
@@ -17,13 +16,13 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 - [ ] Verificação dos fatores de pKa, polaridade, ponto isoelétrico e massa.
 - [ ] Transcrição e tradução da sequência fornecida.
       
-## 📦 Implementação
+## 📦 Implantação
 
-Para a implementação desse projeto foi utilizada a interface do Jupyter Notebook para elaborar o código fonte, em conjunto com as bibliotecas pandas e matplotlib para plotar os gráficos expostos. 
+Para a implantação desse projeto foi utilizada a interface do Jupyter Notebook para elaborar o código fonte, em conjunto com as bibliotecas pandas e peptides para determinar as propriedades físico-químicas da sequência inserida. 
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+As seguintes ferramentas foram utilizadas para a elaboração do projeto:
 
 * Jupyter Notebook - O framework web usado.
 * Peptides library - Cálculo de ponto isoelétrico.
