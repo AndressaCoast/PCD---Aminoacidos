@@ -1,4 +1,4 @@
-![logo_ilum](main/logo_ilum.png)
+![logo_ilum](logo_ilum.png)
 
 
 # PCD - DNA2AA
