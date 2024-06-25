@@ -1,6 +1,6 @@
 
 
-# PCD - Análise de aminoácidos
+# PCD - DNA2AA
 
 O projeto foi elaborado visando a efetivação da análise de uma sequência de pares de bases do gene de uma proteína e a sua classificação de acordo com os tipos de aminoácidos que apresenta, classificá-la em relação a alguns parâmetros fisico-químicos, além de traduzí-la e transcrevê-la.
 Algumas vantagens desse tipo de aplicação são: acessibilidade do código, facilitando análises bioinformáticas tanto para estudantes quanto para professores, praticidade de disposição de informações, de tal forma que o projeto possa ser integrado a outros, de cunho mais complexo, entre outras.
